@@ -1,5 +1,5 @@
 {
-  "name": "htf-2022-component",
+  "name": "htf-2023-component",
   "version": "0.0.0",
   "main": "./dist/htf/bundle.js",
   "scripts": {
