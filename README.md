@@ -1,4 +1,4 @@
-# Htf2023Component
+# HTF 2023 - Angular Component
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.5.
 
