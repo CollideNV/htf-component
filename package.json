@@ -1,5 +1,5 @@
 {
-  "name": "htf-2023-component",
+  "name": "htf-component",
   "version": "0.0.0",
   "main": "./dist/htf/bundle.js",
   "scripts": {
@@ -36,6 +36,6 @@
     "karma-coverage": "~2.2.0",
     "karma-jasmine": "~5.1.0",
     "karma-jasmine-html-reporter": "~2.0.0",
-    "typescript": "~4.7.2"
+    "typescript": "~4.8.3"
   }
 }
